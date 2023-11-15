@@ -4,3 +4,6 @@
 [submodule "oilmillsoft_backend"]
 	path = oilmillsoft_backend
 	url = https://github.com/lucaam/oilmillsoft_backend
+[submodule "oilmillsoft_web"]
+	path = oilmillsoft_web
+	url = https://github.com/lucaam/oilmillsoft_web
